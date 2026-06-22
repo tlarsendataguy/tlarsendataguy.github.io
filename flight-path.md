@@ -20,6 +20,6 @@ Brief description:
 My aspirations for woodworking far exceed my skills. I have a lot of respect for the craftsmen who can turn wood into objects of beauty. Someday, I hope to join their ranks.
 
 <a href="https://tlarsendataguy.github.io/images/flight-path/handplane.png">
-  <img src="vhttps://tlarsendataguy.github.io/images/flight-path/handplane.png" width="600" alt="Hand Plane Flight Path Image">
+  <img src="https://tlarsendataguy.github.io/images/flight-path/handplane.png" width="600" alt="Hand Plane Flight Path Image">
 </a>
 
